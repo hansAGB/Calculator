@@ -1,2 +1,2 @@
-# Eggtimer
-Eggtimer from the Angela Yu Course on iOS 13
+# Calculator
+Calculator from the Angela Yu Course on iOS 13
